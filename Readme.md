@@ -4,6 +4,8 @@ Mattia Cappellino    s327277
 Hi, i have 2 algorithms in my code, (and 3 starting sets for each algoritm exploring different ideas for the starting sets): a more advanced algorithm with more features and a less advanced one that is able to cycle more. Depending on the set one might work better than the other (the second gets to lower scores, the first one does less cycles).
 
 
+My suggestion if you are looking from github and it's all in line is to wiew the file from raw (i dont know why it ignored newlines...)
+
 
 UNIVERSE_SIZE = 100
 NUM_SETS = 10
